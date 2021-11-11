@@ -1,5 +1,5 @@
 // This code will listen  for an HTTP request at the address 127.0.0.1:3571 for incoming
-// Tcp streams, respond, and render the HTML source file, ASYNCHRONOULSLY.
+// Tcp streams, respond, and render the HTML source file, ASYNCHRONOUSLY.
 // The "take" method can be defined in the Iterator trait to limit the iteration
 // to the first two items at most. 
 // The ThreadPool will go out of scope at the end of main,
