@@ -1,6 +1,6 @@
 Remember to terminate the server with Control C.
 
-Check that the code complies without any warnings: 
+Check that the code compiles without any warnings: 
  $ cargo check
 
  (base) Steven-Owinos-iMac:hello stevenowino$ cargo check
